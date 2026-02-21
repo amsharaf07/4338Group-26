@@ -1,0 +1,12 @@
+echo 'using System.Windows;
+
+namespace WpfApp
+{
+    public partial class _4338_Amir : Window
+    {
+        public _4338_Amir()
+        {
+            InitializeComponent();
+        }
+    }
+}
